@@ -20,7 +20,7 @@ As técnicas e tecnologias utilizadas para a página foram:
 Você pode [acessar o código fonte do projeto inicial](https://github.com/MykeStan/pong_game-JS) ou [baixá-lo](https://codeload.github.com/MykeStan/pong_game-JS/zip/refs/heads/main)
 ## 🛠️ Abrir e rodar o projeto
 
-Após baixar o projeto, você pode abrir com o [p5.js](https://editor.p5js.org.com/). Para isso, clique em:
+Após baixar o projeto, você pode abrir com o [p5.js](https://editor.p5js.org). Para isso, clique em:
 
 - File -> New
 - Procure o local onde o projeto está e o selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo).
